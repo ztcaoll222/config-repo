@@ -6,4 +6,4 @@ rate-limit-by-ip-filter:
   refill-tokens: 1
   amount: 1
   unit: SECONDS
-  
+  cpu-max-usage: 0.5
