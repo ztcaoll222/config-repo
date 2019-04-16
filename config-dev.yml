@@ -9,5 +9,9 @@ rate-limit-by-ip-filter:
   cpu-max-usage: 0.5
 
 security:
-  username: admin
-  password: passwd
+  server:
+    username: admin
+    password: passwd
+  client:
+    username: admin
+    password: passwd
