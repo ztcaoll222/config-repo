@@ -7,3 +7,12 @@ rate-limit-by-ip-filter:
   amount: 1
   unit: SECONDS
   cpu-max-usage: 0.5
+
+security:
+  server:
+    username: admin
+    password: passwd
+  client:
+    username: admin
+    password: passwd
+    
