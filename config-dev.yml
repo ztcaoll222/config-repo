@@ -1,5 +1,5 @@
 neo:
-  dev1
+  dev
   
 rate-limit-by-ip-filter:
   capacity: 10
